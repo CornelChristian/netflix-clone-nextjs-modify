@@ -35,7 +35,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SudoKMaar/netflix-clone-nextjs.git
+[git clone https://github.com/SudoKMaar/netflix-clone-nextjs.git](https://github.com/CornelChristian/netflix-clone-nextjs-modify.git)
 ```
 
 2. Install dependencies:
